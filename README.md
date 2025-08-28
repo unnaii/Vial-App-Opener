@@ -1,10 +1,10 @@
-\# VIAL Macropad App Launcher
+#VIAL Macropad App Launcher
 
 
 
-Este programa permite usar un \*\*macropad con Vial/QMK\*\* para abrir programas en Windows 
+Este programa permite usar un **macropad con Vial/QMK** para abrir programas en Windows 
 
-usando teclas poco comunes (`F13–F23`), de forma similar a un \*\*Stream Deck casero\*\*.
+usando teclas poco comunes (`F13–F23`), de forma similar a un **Stream Deck casero**.
 
 
 
@@ -55,4 +55,5 @@ bash
 Copiar código
 
 python main.py
+
 
